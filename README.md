@@ -1,6 +1,6 @@
-# Durian Detection App
+# Dragon Detection App
 
-Ứng dụng nhận diện sầu riêng sử dụng AI với React Native, TypeScript và Expo SDK 54.
+Ứng dụng nhận diện thanh long sử dụng AI với React Native, TypeScript và Expo SDK 54.
 
 ## Tính năng
 
@@ -41,7 +41,7 @@ npx expo start --android
 ## Cấu trúc dự án
 
 ```
-DurianApp/
+DragonnApp/
 ├── src/
 │   ├── components/          # React components
 │   │   └── CameraComponent.tsx
